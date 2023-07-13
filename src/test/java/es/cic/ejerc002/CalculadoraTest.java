@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 
 class CalculadoraTest {
 	
-	private Calculadora calculadora;
+	private ICalculadora calculadora;
 	
 	/*
 	 * Se ejecuta antes del test
